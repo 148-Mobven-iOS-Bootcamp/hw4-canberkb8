@@ -1,4 +1,4 @@
-# HW4
+# HW4 - ! Bu hafta ağır covid hastalığı geçirdiğim için ödevi yapamadım !
 
 ## Ödev 1: 
 Bu hafta geliştirdiğimiz projedeki webView ekranında 
